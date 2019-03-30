@@ -1,4 +1,4 @@
-// minarg 1.0.0
+// minarg 1.0.1
 // A minimalist argument parsing library for C++11
 // https://github.com/sevmeyer/minarg
 //
@@ -34,6 +34,7 @@
 
 #include <cstddef>
 #include <cstdint>
+#include <algorithm>
 #include <exception>
 #include <iostream>
 #include <iterator>
